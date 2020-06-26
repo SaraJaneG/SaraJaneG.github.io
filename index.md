@@ -12,7 +12,7 @@ SaraJane Griffiths is a rising senior at the University of Puget Sound in Tacoma
 
 ## About My Mentor
 
-Professor Anat Caspi is the director of the Taskar Center for Accessible Technology at the University of Washington. She is Principal Scientist at the Paul G. Allen School of Computer Science & Engineering and an Affiliate Assistant Professor, Electrical & Computer Engineering. Her research interest include "Ubiquitous Computing and Contextually Aware Automation." You can learn more about Dr. Caspi and her work [here](https://tcat.cs.washington.edu/).
+Professor Anat Caspi is the director of the Taskar Center for Accessible Technology at the University of Washington. She is Principal Scientist at the Paul G. Allen School of Computer Science & Engineering and an Affiliate Assistant Professor, Electrical & Computer Engineering. Her research interest include "Ubiquitous Computing and Contextually Aware Automation." You can learn more about Dr. Caspi and her work [here](https://tcat.cs.washington.edu/people/anat-caspi/).
 
 ## About My Project
 
