@@ -7,7 +7,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-SaraJane Griffiths is a rising senior at the University of Puget Sound in Tacoma, WA. In the spring, she will be graduating with a double major in Computer Science and International Political Economy and a minor in Mathematics. She is predominantly interested in the ways that computing can be utilized to bring about societal change.
+I am a rising senior at the University of Puget Sound in Tacoma, WA. In the spring, I will be graduating with a double major in Computer Science and International Political Economy and a minor in Mathematics. My interests predominantly concern the ways that technology and computing can be utilized to create tangible social change.
 
 ## About My Mentor
 
