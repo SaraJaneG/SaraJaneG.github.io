@@ -17,7 +17,7 @@ Professor Anat Caspi is the director of the Taskar Center for Accessible Technol
 
 This summer, I will be contributing to the OpenSidewalks Project. My role will be to develop an android app that can integrate with a network of citizen scientists so that we can increase data collection for underreported areas on AccessMaps. The aim of this project is to address the disparities that exist in data about accessibility factors for streets in different neighborhoods. 
 
-[My Final Report](files/finalreport.pdf)
+At the end of the summer, my report will be posted here:[final report](files/finalreport.pdf)
 
 ## My Blog
 
