@@ -3,7 +3,7 @@ layout: default
 title: Summer 2020 DREU Project Site
 ---
 
-{ [Home](/) } { [Weekly Project Updates](blog.html) }
+{ [Home](/) } { [Project Updates](blog.html) }
 
 ## About Me
 
@@ -19,6 +19,5 @@ This summer, I will be contributing to the OpenSidewalks Project. My role will b
 
 At the end of the summer, my report will be posted here:[final report](files/finalreport.pdf)
 
-## My Blog
-
-[My Blog](blog.html)
+## Project Updates
+I will be posting weekly updates on my progress, challenges, etc. on [this](blog.html) page for the entirety of the DREU.
