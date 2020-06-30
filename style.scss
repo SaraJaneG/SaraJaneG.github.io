@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $yellow;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $cabin;
   color: $darkGray;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $roboto;
+  color: $darkpurple;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $darkpurple;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $darkpurple;
   }
 }
 
