@@ -19,7 +19,8 @@ html {
 
 body {
 	background: $yellow;
-  font: 18px/1.4 $cabin;
+  font: 18px/1.4;
+  font-family: $cabin;
   color: $darkGray;
 }
 
@@ -195,7 +196,7 @@ img {
   color: $darkpurple;
   cursor: pointer;
   font-family: $roboto;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 28px;
   letter-spacing: 2px;
 }
